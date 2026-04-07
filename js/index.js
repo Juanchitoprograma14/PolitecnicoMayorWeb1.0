@@ -35,8 +35,8 @@ document.addEventListener('DOMContentLoaded', ()=>{
     }
 
     console.log(infoProducto);
-    console.log("info producto");
-    
+
+
     
     
     
