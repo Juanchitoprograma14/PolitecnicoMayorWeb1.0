@@ -50,9 +50,13 @@ document.addEventListener('DOMContentLoaded', ()=>{
   })
   
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   
 >>>>>>> fixed
+=======
+  
+>>>>>>> 5c60f4795bb37f32e1ff6dd8e48ffcd18d4e9ab1
 
 
   
