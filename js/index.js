@@ -35,12 +35,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
     }
 
     console.log(infoProducto);
-<<<<<<< HEAD
-=======
 
 
     
->>>>>>> fixed
     
     
 
