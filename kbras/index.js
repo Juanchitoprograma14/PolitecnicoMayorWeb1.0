@@ -31,9 +31,9 @@
                 <td>$${item.precio.toLocaleString()}</td>
                 <td>${item.cantidad}</td>
                 <td>$${subtotal.toLocaleString()}</td>
-                <button class="btn-eliminar" data-index="${index}" title="Eliminar">
-                <img src="/img/icono-borrar.png" alt="Eliminar" class="icono-eliminar">
-                </button>
+                <td>
+                    <button class="btn-eliminar" data-index="${index}" title="Eliminar producto">🗑️</button>
+                </td>
             `;
             tablaCarrito.appendChild(fila);
         });
